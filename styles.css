@@ -1,0 +1,74 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+ }
+
+header {
+ margin: 44px 0 144px 76px;}
+
+
+ .link-header {
+    font-weight: 500;    /* Define o peso da fonte como 600 (semi-negrito) */
+    font-size: 14px;     /* Define o tamanho da fonte como 24px */
+    line-height: 21px;
+    text-align: center;     /* Define o alinhamento do texto como centralizado */
+    color: #989D9C;
+    cursor: pointer;
+    text-decoration: none;  /* Remove o sublinhado padrão da tag <a> */
+    margin-right: 23px;
+}
+
+.button-header {
+    background-color: #6FBF44;
+    font-weight: 500;    /* Define o peso da fonte como 600 (semi-negrito) */
+    font-size: 16px;     /* Define o tamanho da fonte como 24px */
+    line-height: 29px;    /* Define a altura da linha da fonte como 29px */
+    color: #FFF;
+    cursor: pointer;
+    text-decoration: none;  /* Remove o sublinhado padrão da tag <a> */
+    padding: 10px 20px;   /* Adiciona espaçamento interno para parecer um botão */
+    border: 1px solid #4CB538; /* Adiciona uma borda para destacar o botão */
+    border-radius: 5px;  /* Adiciona cantos arredondados ao botão */
+}
+
+.logo-image {
+  margin: 50px 0 0 123px;   /* Adiciona uma margem para posicionar a imagem */
+  display: inline-block;    /* Define como inline-block, para que a imagem fique ao lado do texto */
+}
+
+.section-main {
+    margin-left: 86px;
+    display: inline-block;    /* Define como inline-block, para que a imagem fique ao lado do texto */
+}
+
+h1 {
+    font-weight: 700;    /* Define o peso da fonte como 700 (semi-negrito) */
+    font-size: 62px;     /* Define o tamanho da fonte como 48px */
+    line-height: 82px;    /* Define a altura da linha da fonte como 59px */
+    color: #161A49;
+}
+
+p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 33px;
+  color: #515151;
+  letter-spacing: 0,5px;
+  width: 515px;
+  margin-top: 32px;
+}
+
+.button-learn-more {
+    background-color: transparent;
+    font-weight: 500;    /* Define o peso da fonte como 600 (semi-negrito) */
+    font-size: 16px;     /* Define o tamanho da fonte como 24px */
+    line-height: 29px;    /* Define a altura da linha da fonte como 29px */
+    color: #6FBF44;
+    cursor: pointer;
+    text-decoration: none;  /* Remove o sublinhado padrão da tag <a> */
+    padding: 10px 20px;   /* Adiciona espaçamento interno para parecer um botão */
+    border: none; /* Adiciona uma borda para destacar o botão */
+    margin-top: 32px;
+}
